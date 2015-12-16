@@ -1,5 +1,5 @@
 ## Interactive Volcano Plot with Voronoi Overlay
-This respository contain the code for the tutorial available at http://www.enpicom.com/visual-lab/visual-lab/interactive-volcano-plot/tutorial/.
+This respository contains the code for the tutorial available at http://www.enpicom.com/visual-lab/visual-lab/interactive-volcano-plot/tutorial/.
 
 In the tutorial I show how to build an interactive volcano plot using the awesome javascript libraries [D3](http://www.d3js.org) and [Opentip](http://www.opentip.org).
 
